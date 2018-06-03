@@ -1,0 +1,7 @@
+/home/nunu/IdeaProjects/renren-security/renren-gen/src/main/java/io/renren/service/impl/SysGeneratorServiceImpl.java
+/home/nunu/IdeaProjects/renren-security/renren-gen/src/main/java/io/renren/controller/SysGeneratorController.java
+/home/nunu/IdeaProjects/renren-security/renren-gen/src/main/java/io/renren/entity/TableEntity.java
+/home/nunu/IdeaProjects/renren-security/renren-gen/src/main/java/io/renren/dao/SysGeneratorDao.java
+/home/nunu/IdeaProjects/renren-security/renren-gen/src/main/java/io/renren/utils/GenUtils.java
+/home/nunu/IdeaProjects/renren-security/renren-gen/src/main/java/io/renren/service/SysGeneratorService.java
+/home/nunu/IdeaProjects/renren-security/renren-gen/src/main/java/io/renren/entity/ColumnEntity.java

@@ -1,0 +1,10 @@
+/home/nunu/IdeaProjects/renren-security/renren-web/src/main/java/io/renren/dao/SysOssDao.java
+/home/nunu/IdeaProjects/renren-security/renren-web/src/main/java/io/renren/controller/SysLogController.java
+/home/nunu/IdeaProjects/renren-security/renren-web/src/main/java/io/renren/controller/SysOssController.java
+/home/nunu/IdeaProjects/renren-security/renren-web/src/main/java/io/renren/task/TestTask.java
+/home/nunu/IdeaProjects/renren-security/renren-web/src/main/java/io/renren/entity/SysOssEntity.java
+/home/nunu/IdeaProjects/renren-security/renren-web/src/main/java/io/renren/service/SysOssService.java
+/home/nunu/IdeaProjects/renren-security/renren-web/src/main/java/io/renren/controller/SysPageController.java
+/home/nunu/IdeaProjects/renren-security/renren-web/src/main/java/io/renren/aop/SysLogAspect.java
+/home/nunu/IdeaProjects/renren-security/renren-web/src/main/java/io/renren/service/impl/SysOssServiceImpl.java
+/home/nunu/IdeaProjects/renren-security/renren-web/src/main/java/io/renren/controller/SysConfigController.java

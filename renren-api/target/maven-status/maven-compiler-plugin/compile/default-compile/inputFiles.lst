@@ -1,0 +1,15 @@
+/home/nunu/IdeaProjects/renren-security/renren-api/src/main/java/io/renren/resolver/LoginUserHandlerMethodArgumentResolver.java
+/home/nunu/IdeaProjects/renren-security/renren-api/src/main/java/io/renren/dao/UserDao.java
+/home/nunu/IdeaProjects/renren-security/renren-api/src/main/java/io/renren/service/impl/TokenServiceImpl.java
+/home/nunu/IdeaProjects/renren-security/renren-api/src/main/java/io/renren/annotation/LoginUser.java
+/home/nunu/IdeaProjects/renren-security/renren-api/src/main/java/io/renren/entity/TokenEntity.java
+/home/nunu/IdeaProjects/renren-security/renren-api/src/main/java/io/renren/service/UserService.java
+/home/nunu/IdeaProjects/renren-security/renren-api/src/main/java/io/renren/annotation/IgnoreAuth.java
+/home/nunu/IdeaProjects/renren-security/renren-api/src/main/java/io/renren/service/TokenService.java
+/home/nunu/IdeaProjects/renren-security/renren-api/src/main/java/io/renren/interceptor/AuthorizationInterceptor.java
+/home/nunu/IdeaProjects/renren-security/renren-api/src/main/java/io/renren/dao/TokenDao.java
+/home/nunu/IdeaProjects/renren-security/renren-api/src/main/java/io/renren/api/ApiTestController.java
+/home/nunu/IdeaProjects/renren-security/renren-api/src/main/java/io/renren/service/impl/UserServiceImpl.java
+/home/nunu/IdeaProjects/renren-security/renren-api/src/main/java/io/renren/api/ApiRegisterController.java
+/home/nunu/IdeaProjects/renren-security/renren-api/src/main/java/io/renren/api/ApiLoginController.java
+/home/nunu/IdeaProjects/renren-security/renren-api/src/main/java/io/renren/entity/UserEntity.java
